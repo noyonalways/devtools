@@ -1,0 +1,5 @@
+{
+  "name": "DevTools",
+  "description": "A centralized hub of essential developer utilities including formatters, encoders, and generators.",
+  "requestFramePermissions": []
+}
